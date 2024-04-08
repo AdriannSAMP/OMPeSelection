@@ -1,0 +1,16 @@
+{
+	"user": "AdriannSAMP",
+	"repo": "OMPeSelection",
+	"entry": "test.pwn",
+	"output": "gamemodes/test.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib",
+		"IllidanS4/PawnPlus:v1.4.0.1"
+	],
+	"runtime": {
+		"version": "0.3.7",
+		"mode": "server",
+		"rcon_password": "password",
+		"port": 7777
+	}
+}
